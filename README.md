@@ -1,3 +1,3 @@
 # icandoit
-## editing the file
-it's a markdown file in this repository
+## jupyter notebook submission
+thanks for your support
